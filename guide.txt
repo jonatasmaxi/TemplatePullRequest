@@ -1,0 +1,19 @@
+
+
+    On GitHub, navigate to the main page of the repository.
+
+    The New file buttonAbove the file list, click Create new file.
+
+    New file nameDecide whether to store your pull request template in your repository's root, docs, or .github directory. Then, in the filename field, type the name and extension for the file. Pull request template filenames are not case sensitive, and can have an extension such as .md or .txt.
+        To make your pull request template visible in the repository's root directory, type PULL_REQUEST_TEMPLATE.
+        To make your pull request template visible in the repository's docs directory, type docs/ to create the new directory, then PULL_REQUEST_TEMPLATE.
+    In the new file, add your pull request template. This could include:
+        A reference to a related issue in your repository.
+        A description of the changes proposed in the pull request.
+        @mentions of the person or team responsible for reviewing proposed changes.
+
+    Commit message for your changeAt the bottom of the page, type a short, meaningful commit message that describes the change you made to the file.
+
+    Commit branch optionsBelow the commit message fields, decide whether to add your commit to the current branch or to a new branch. If your current branch is master, you should choose to create a new branch for your commit and then create a pull request.
+
+    Commit new file buttonClick Propose new file.
